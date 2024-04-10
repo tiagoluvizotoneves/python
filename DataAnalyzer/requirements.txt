@@ -1,0 +1,4 @@
+pandas==1.2.3
+matplotlib>=3.3.4
+seaborn>=0.11.1
+jupyterlab==3.0.14  # Opcional, remova se não for usar Jupyter
