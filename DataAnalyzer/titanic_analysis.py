@@ -26,3 +26,21 @@ plt.show()
 # Proporção de sobreviventes
 sobreviventes = df['Survived'].value_counts(normalize=True) * 100
 print(f"Proporção de Sobreviventes: {sobreviventes}")
+
+# Análise de Sobrevivência por Classe de Cabine
+plt.figure(figsize=(10, 6))
+sns.countplot(x='Pclass', hue='Survived', data=df)
+plt.title('Sobrevivência por Classe de Cabine')
+plt.xlabel('Classe de Cabine')
+plt.ylabel('Número de Passageiros')
+plt.legend(title='Sobreviveu', labels=['Não', 'Sim'])
+plt.show()
+
+# Análise de Sobrevivência por Sexo
+plt.figure(figsize=(10, 6))
+sns.countplot(x='Sex', hue='Survived', data=df)
+plt.title('Sobrevivência por Sexo')
+plt.xlabel('Sexo')
+plt.ylabel('Número de Passageiros')
+plt.legend(title='Sobreviveu', labels=['Não', 'Sim'])
+plt.show()

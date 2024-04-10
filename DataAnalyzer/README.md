@@ -25,18 +25,16 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 - **Distribuição das Idades:** Análise da distribuição de idades dos passageiros.
 - **Proporção de Sobreviventes:** Identificação da proporção de passageiros que sobreviveram ao desastre.
-- (Adicione mais análises conforme necessário)
+- **Sobrevivência por Classe de Cabine:** Explora a relação entre a classe de cabine dos passageiros (Pclass) e suas taxas de sobrevivência.
+- **Sobrevivência por Sexo:** Examina a diferença nas taxas de sobrevivência entre homens e mulheres.
 
 ## Visualizações Criadas
 
 - Gráfico da distribuição de idades dos passageiros.
 - Gráfico de barras mostrando a proporção de sobreviventes e não sobreviventes.
-- (Inclua outras visualizações conforme necessário)
-
-## Conclusões
-
-(Sumário das conclusões obtidas a partir da análise dos dados. Este é um bom lugar para destacar quaisquer insights interessantes ou surpreendentes sobre os dados.)
+- Gráfico de barras mostrando a sobrevivência por classe de cabine.
+- Gráfico de barras mostrando a sobrevivência por sexo.
 
 ## Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT.
