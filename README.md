@@ -10,6 +10,8 @@ Abaixo, você encontrará uma breve descrição de cada projeto incluído neste 
 
 - [**AnaliseBonusViagem**](AnaliseBonusViagem): Este script monitora vendas mensais através de arquivos Excel e envia notificações SMS quando um vendedor excede a meta estabelecida de vendas, demonstrando a aplicação prática da automação e do uso de APIs externas, como a Twilio.
 
+- [**VotingApp**](VotingApp): Uma aplicação web desenvolvida com Django que permite aos usuários criar, votar e ver os resultados de enquetes. Destaca o uso do Django para desenvolvimento web e a integração com um banco de dados MySQL, além de práticas de desenvolvimento front-end com Bootstrap/Materialize CSS.
+
 ## Objetivo
 
 O principal objetivo deste repositório é servir como um portfólio para análise de código por empresas e recrutadores interessados em contratar meus serviços. Cada projeto foi cuidadosamente selecionado e desenvolvido para demonstrar uma ampla gama de habilidades e competências em programação Python e análise de dados.
@@ -23,6 +25,9 @@ Os projetos neste portfólio utilizam diversas tecnologias e bibliotecas amplame
 - Matplotlib
 - Seaborn
 - Twilio API
+- Django
+- MySQL
+- Bootstrap/Materialize CSS
 
 ## Mais Informações
 
