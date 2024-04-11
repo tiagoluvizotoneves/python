@@ -44,9 +44,7 @@ python manage.py createsuperuser
 7. **Inicie o Servidor de Desenvolvimento:**
 python manage.py runserver
 
-8. **Acesse a Aplicação:** Abra um navegador e visite `http://127.0.0.1:8000/`.
-
-Para acessar o admin http://127.0.0.1:8000/admin/ (use o superuser)
+8. **Acesse a Aplicação:** Abra um navegador e visite `http://127.0.0.1:8000/`. Para acessar o admin http://127.0.0.1:8000/admin/ (use o superuser)
 
 ## Contribuições
 
